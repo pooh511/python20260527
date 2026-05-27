@@ -1,0 +1,4 @@
+# 함수연습.py
+
+#1함수를 정의
+def setvalue(netvalue):
